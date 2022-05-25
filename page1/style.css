@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+.headdd{
+    font-size: 20px;
+    color: rgb(0, 204, 255);
+    background-color: blanchedalmond;
+    border: coral;
+    text-shadow: 1px 1px 25px black;
+    text-align: center;
+    padding: 15px;
+    font-size: 50px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black; 
+    border-radius: 50px;
+    font-size: 50px;
+    transition: 0.7s;
+}
+.headdd:hover{
+    background-color: azure;
+    
+    
+}
+.div1{
+    
+    color: blue;
+    background-color: blanchedalmond;
+    border: coral;
+    border-radius: 50px;
+    font-size: 20px;
+    
+    
+    padding: 15px;
+    
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    text-shadow: 0px 1px 10px black;
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+}
+
+    
+
+.li1{
+    margin: 0px;
+    padding: 10px;
+    
+}
+.li2{
+    margin: 0px;
+    padding: 10px;
+    display: inline-block;
+}
+.li3{
+    margin: 10px;
+    padding: 10px;
+    width: 10px;
+    display: inline-block;
+    margin: 10px auto 20px;
+}
+.knop{
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    width: 200px;
+    margin: 10px;
+    border: 3px solid chocolate;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(255, 255, 255);
+    transition: 0,5s;
+    display: inline-block;
+}
+
+.li1{
+    text-align: center;
+}
+.knop:hover{
+    background-color: rgb(215, 255, 255);
+}
+.HHHHH{
+    text-align: center;
+}
